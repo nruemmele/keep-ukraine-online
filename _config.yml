@@ -11,7 +11,7 @@ org_full_description: > # Enter your description on the next line. Be sure to in
   We are buying Starlink satellite dishes to ensure communication channels in Ukraine..
 #OPTIONAL
 #Non US-address support coming soon
-org_general_email_inbox: npobedina@gmail.com
+org_general_email_inbox: keepukraineonline@gmail.com
 org_street_address: #Please include suite number on the line below
 org_address_suite: 
 org_city: Slavutych
@@ -45,7 +45,7 @@ publish: false
 
 #COLOR SCHEME
 #Select one of the five color schemes (default, one, two, three, or four)
-color_scheme: default
+color_scheme: one
 
 # *** DO NOT CHANGE ANYTHING BELOW THIS LINE ***
 
